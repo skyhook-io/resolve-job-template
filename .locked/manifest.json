@@ -1,0 +1,12 @@
+{
+  "dependencies": {},
+  "npm": null,
+  "runner_tools": "Existing runner binaries and consumer build inputs are not snapshotted.",
+  "snapshot": "b6a9fa16bb55a9cd3102",
+  "source": {
+    "ref": "v1",
+    "repository": "skyhook-io/resolve-job-template",
+    "sha": "fa3472cdfa4381ab6aaca4f1a4fcda5d359487fd"
+  },
+  "tools": {}
+}
