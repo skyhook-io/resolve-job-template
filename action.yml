@@ -1,4 +1,4 @@
-name: 'Resolve Job Template'
+name: 'Skyhook Resolve Job Template'
 description: 'Resolves Kubernetes job/template resource name by label discovery'
 author: 'Skyhook'
 
